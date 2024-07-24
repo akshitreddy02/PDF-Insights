@@ -1,0 +1,13 @@
+Flask
+flask-cors
+werkzeug
+langchain-community
+googletrans==4.0.0-rc1
+scikit-learn
+nltk
+SpeechRecognition
+pymongo
+python-dotenv
+faiss-cpu  # This is for the FAISS library, ensure correct version based on your system
+ctransformers
+
